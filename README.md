@@ -1,4 +1,3 @@
-# Introduction for Chengdu
 
 We are doing a handwritten newspaper introducing Chengdu. 
 
